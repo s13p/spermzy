@@ -358,6 +358,8 @@ body.rtl .elementor-6 .elementor-element.elementor-element-1b2d5d1 {
 
 .elementor-6 .elementor-element.elementor-element-db26101 .elementor-wrapper {
     --video-aspect-ratio: 1.77777;
+    width: 70vw;
+    margin-left:-16vw;
 }
 
 .elementor-6 .elementor-element.elementor-element-40b8e15>.elementor-container {
@@ -493,6 +495,11 @@ body.rtl .elementor-6 .elementor-element.elementor-element-1b2d5d1 {
 
 .elementor-6 .elementor-element.elementor-element-f0690e9 .elementor-wrapper {
     --video-aspect-ratio: 1.77777;
+    width: 30vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
 }
 
 .elementor-6 .elementor-element.elementor-element-ac70925 {
