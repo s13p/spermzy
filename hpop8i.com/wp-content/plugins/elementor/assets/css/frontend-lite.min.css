@@ -437,7 +437,7 @@
 .elementor .elementor-background,
 .elementor .elementor-background-holder,
 .elementor .elementor-background-video-container {
-    height: 100%;
+    height: 90%;
     width: 100%;
     top: 0;
     left: 0;
@@ -449,7 +449,8 @@
 
 .elementor .elementor-background-video-container {
     transition: opacity 1s;
-    pointer-events: none
+    pointer-events: none;
+    margin-bottom: -5REM;
 }
 
 .elementor .elementor-background-video-container.elementor-loading {
